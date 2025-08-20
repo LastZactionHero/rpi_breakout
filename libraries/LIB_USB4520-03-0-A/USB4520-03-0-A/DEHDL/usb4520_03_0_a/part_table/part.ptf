@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USB4520_03_0_A'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "GCT (GLOBAL CONNECTOR TECHNOLOGY)", "USB4520-03-0-A" (!) = "", "USB4520030A", "Other", "640-USB4520030A", "https://www.mouser.co.uk/ProductDetail/GCT/USB4520-03-0-A?qs=7D1LtPJG0i16f9tCCMAw%2FA%3D%3D", "", "", "USB Connectors USB C Rec 16P 3u" Mid Mnt 2.1mm O-set SMT L = 6.5mm-1", "https://componentsearchengine.com/Datasheets/2/USB4520-03-0-A.pdf", "3.36 mm"
+END_PART
+
+END.

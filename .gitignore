@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# KiCad
+*.lck
+#auto_saved_files#/
+rpi_breakout-backups/

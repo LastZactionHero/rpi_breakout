@@ -1,0 +1,16 @@
+.SKRWAEE030 :1 ;Tactile Switches 3.7x3.7x0.35mm 160gf
+SKRWAEE030
+*STM S
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN SKRWAEE030
+~!Mouser Part Number (688-SKRWAEE030)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Alps-Alpine/SKRWAEE030?qs=4aVxpR%2FL9VKdaQi%252BS4Mesg%3D%3D)
+~!Manufacturer_Name (ALPS Electric)
+~!Manufacturer_Part_Number (SKRWAEE030)
+~!Link Datasheet (https://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRW/SKRWAEE030.html)
+~!Height (0.5mm)
+~!3D_Model (SKRWAEE030)
+SKRWAEE030
+1.1!U 2.1!U 3.1!U 4.1!U 

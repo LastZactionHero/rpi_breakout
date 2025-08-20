@@ -1,0 +1,9 @@
+Manufacturer=ALPS Electric
+PartNumber=SKRWAEE030
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2019-07-04 17:26:27
+Downloaded=2025-07-19 00:33:29
+3D=Y
