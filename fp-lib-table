@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_SKRWAEE030/SKRWAEE030/KiCad")(options "")(descr ""))
+  (lib (name "ABM8_12_000MHZ_B2_T")(type "KiCad")(uri "${KIPRJMOD}/libraries/ABM8_12_000MHZ_B2_T")(options "")(descr ""))
+  (lib (name "LIB_USB4520-03-0-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_USB4520-03-0-A")(options "")(descr ""))
+  (lib (name "SC0914_13_")(type "KiCad")(uri "${KIPRJMOD}/libraries/SC0914_13_")(options "")(descr ""))
+  (lib (name "W25Q16JVZPIQ")(type "KiCad")(uri "${KIPRJMOD}/libraries/W25Q16JVZPIQ")(options "")(descr ""))
+  (lib (name "KiCad_USB")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_USB4520-03-0-A/USB4520-03-0-A/KiCad")(options "")(descr ""))
+  (lib (name "AP2112K_3_3TRG1")(type "KiCad")(uri "${KIPRJMOD}/libraries/AP2112K_3_3TRG1")(options "")(descr ""))
+)
