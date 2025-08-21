@@ -4475,16 +4475,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 21.59) (xy 74.93 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d72d0ad2-21c4-4570-9e53-dcc4694e4369")
-	)
-	(wire
-		(pts
 			(xy 142.24 21.59) (xy 153.67 21.59)
 		)
 		(stroke
@@ -6070,10 +6060,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "6e8fdf1e-e837-4ed2-a0d7-486712e6e346")
+			(uuid "6e8fdf1e-e837-4ed2-a0d7-486712e6e347")
 		)
 		(pin "2"
-			(uuid "48331e89-218c-41a2-8922-3729a4697436")
+			(uuid "48331e89-218c-41a2-8922-3729a4697437")
 		)
 		(instances
 			(project ""
@@ -6208,10 +6198,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "6e8fdf1e-e837-4ed2-a0d7-486712e6e346")
+			(uuid "6e8fdf1e-e837-4ed2-a0d7-486712e6e348")
 		)
 		(pin "2"
-			(uuid "48331e89-218c-41a2-8922-3729a4697436")
+			(uuid "48331e89-218c-41a2-8922-3729a4697438")
 		)
 		(instances
 			(project ""
@@ -6590,10 +6580,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "6e8fdf1e-e837-4ed2-a0d7-486712e6e346")
+			(uuid "6e8fdf1e-e837-4ed2-a0d7-486712e6e349")
 		)
 		(pin "2"
-			(uuid "48331e89-218c-41a2-8922-3729a4697436")
+			(uuid "48331e89-218c-41a2-8922-3729a4697439")
 		)
 		(instances
 			(project ""
@@ -7317,7 +7307,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9aa382ce-7a0c-4122-814c-7e6abc5ca370")
+			(uuid "9aa382ce-7a0c-4122-814c-7e6abc5ca371")
 		)
 		(instances
 			(project ""
@@ -7384,7 +7374,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9aa382ce-7a0c-4122-814c-7e6abc5ca370")
+			(uuid "9aa382ce-7a0c-4122-814c-7e6abc5ca372")
 		)
 		(instances
 			(project ""
@@ -8112,10 +8102,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "6e8fdf1e-e837-4ed2-a0d7-486712e6e346")
+			(uuid "6e8fdf1e-e837-4ed2-a0d7-486712e6e34a")
 		)
 		(pin "2"
-			(uuid "48331e89-218c-41a2-8922-3729a4697436")
+			(uuid "48331e89-218c-41a2-8922-3729a469743a")
 		)
 		(instances
 			(project ""
@@ -8381,7 +8371,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9aa382ce-7a0c-4122-814c-7e6abc5ca370")
+			(uuid "9aa382ce-7a0c-4122-814c-7e6abc5ca373")
 		)
 		(instances
 			(project ""
@@ -8453,76 +8443,6 @@
 			(project ""
 				(path "/e6e76701-c43e-4a4c-9916-d31d8a705258"
 					(reference "#PWR047")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 74.93 29.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "724fbf2b-d1c8-4e8b-b73b-b0aa8bc2991f")
-		(property "Reference" "C3"
-			(at 77.47 27.9462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 77.47 30.4862 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 74.93 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 74.93 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 74.93 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f8736aaa-9024-4a11-b08b-155858c4d1b5")
-		)
-		(pin "2"
-			(uuid "76edbdf9-204d-4468-a0c8-a7287504edf9")
-		)
-		(instances
-			(project "rpi_breakout"
-				(path "/e6e76701-c43e-4a4c-9916-d31d8a705258"
-					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -11321,72 +11241,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 74.93 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c604a404-dfda-4537-8ee7-5a0a5a56a0d5")
-		(property "Reference" "#PWR034"
-			(at 74.93 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 74.93 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 74.93 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ade3a329-1eca-4dd6-8ba5-3bc7d36d478a")
-		)
-		(instances
-			(project ""
-				(path "/e6e76701-c43e-4a4c-9916-d31d8a705258"
-					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 259.08 22.86 90)
 		(unit 1)
@@ -11440,10 +11294,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "6e8fdf1e-e837-4ed2-a0d7-486712e6e346")
+			(uuid "6e8fdf1e-e837-4ed2-a0d7-486712e6e34b")
 		)
 		(pin "2"
-			(uuid "48331e89-218c-41a2-8922-3729a4697436")
+			(uuid "48331e89-218c-41a2-8922-3729a469743b")
 		)
 		(instances
 			(project ""
@@ -11643,7 +11497,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9aa382ce-7a0c-4122-814c-7e6abc5ca370")
+			(uuid "9aa382ce-7a0c-4122-814c-7e6abc5ca374")
 		)
 		(instances
 			(project ""
@@ -11776,7 +11630,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9aa382ce-7a0c-4122-814c-7e6abc5ca370")
+			(uuid "9aa382ce-7a0c-4122-814c-7e6abc5ca375")
 		)
 		(instances
 			(project ""
@@ -12259,72 +12113,6 @@
 			(project "rpi_breakout"
 				(path "/e6e76701-c43e-4a4c-9916-d31d8a705258"
 					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 74.93 21.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "de3c1cb4-be31-4db4-a347-625f6388f1ac")
-		(property "Reference" "#PWR016"
-			(at 74.93 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 74.93 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 74.93 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 74.93 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cff9b334-cca0-4e39-8874-c77fdbdaf052")
-		)
-		(instances
-			(project ""
-				(path "/e6e76701-c43e-4a4c-9916-d31d8a705258"
-					(reference "#PWR016")
 					(unit 1)
 				)
 			)
